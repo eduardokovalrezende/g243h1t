@@ -1,0 +1,1 @@
+imprime =(mgs) => console.log(msg);
