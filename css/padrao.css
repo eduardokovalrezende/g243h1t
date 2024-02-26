@@ -5,6 +5,15 @@
     text-align: center;
 }
 #dispositivo{
-    font-size: 60px;
-    color: blueviolet;
+    font-size: 200px;
+    color: rgb(0, 0, 0);
+}
+@media (min-width: 800px) {
+ .barra{
+    height: 200px;
+    background-color: gray ;    
+ }   
+ #dipositivo{
+    display: none;
+ }
 }
