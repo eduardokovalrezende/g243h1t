@@ -4,16 +4,54 @@
     background-color: rgb(228, 14, 14);
     text-align: center;
 }
-#dispositivo{
-    font-size: 200px;
+.mobile {
+    font-size: 70px;
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 @media (min-width: 800px) {
  .barra{
     height: 200px;
     background-color: gray ;    
  }   
- #dipositivo{
+ #mobile    {
     display: none;
  }
+}
+.tablet{
+    display: none;
+}
+.desktop{
+    display: none;
+}
+.barra{
+    height: 150px;
+    background-color: aqua;
+}
+.mobile{
+    display: none;
+}
+.tablet{
+    display: inline;
+    font-size: 70px;
+    color: aquamarine;
+    text-align: center;
+}
+@media (min-width: 1228px){
+    .barra{
+        height: 150px;
+        background-color: brown;
+    }
+    .tablet{
+        display: none;
+    }
+    .desktop{
+        display: inline;
+    font-size: 80px;
+    color: coral;
+    text-align: center;
+    }
+}
+.rodape{
+    text-align: center;
 }
