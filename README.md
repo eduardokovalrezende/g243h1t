@@ -1,2 +1,2 @@
-# Eduardo Koval Rezende - 05
-# Higor Cordeiro dos Santos - 16
+# Dupla
+## Eduardo. K (05), Higor. C (16)
